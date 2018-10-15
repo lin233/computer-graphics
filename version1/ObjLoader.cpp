@@ -132,7 +132,7 @@ ObjLoader::ObjLoader(string filename)
 			JID++;
 		}
 	} 
-
+	return;
 	/*
 		int fsize = faces.size();
 	int JID = 0;
